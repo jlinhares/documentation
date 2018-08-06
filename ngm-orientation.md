@@ -2,6 +2,10 @@
 
 Is a Angular module for using mobile device orientation sensor.
 
+## Version
+
+1.0.0
+
 ## Requirements
 
 Angular 6.x.x
