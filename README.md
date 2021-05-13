@@ -1,1 +1,8 @@
-# Technical documentationTechnical documentation of developed Angular packages## Packages### ngm-orientation### ngm-motion
+# Technical documentation
+
+Technical documentation of developed Angular packages
+
+## Packages
+
+### ngm-orientation
+
